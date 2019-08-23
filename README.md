@@ -7,7 +7,7 @@ You can update the list of projects by using the -u flags.
 
 ![Demo](.github/gproj-recording.gif)
 
-##INSTALLATION
+## INSTALLATION
 
 install gcloud from [here](https://cloud.google.com/sdk/docs/quickstarts) if not installed
 install fzf from here [fzf](https://github.com/junegunn/fzf)
@@ -16,19 +16,19 @@ install fzf from here [fzf](https://github.com/junegunn/fzf)
 sudo curl https://raw.githubusercontent.com/sageecute/google-project-setter/master/bin/projectfinder.sh -o /usr/local/bin/gproj && sudo chmod +x $_
 ```
 
-##USAGE
+## USAGE
 
-###BASIC USAGE
+### BASIC USAGE
 gproj
 
-###UPDATE THE CACHE
+### UPDATE THE CACHE
 
 gproj -u 
 
-##FUTURE
+### FUTURE
 
 1. Add support for multiple gcloud profiles. For now if you are using multiple profiles update the cache.
 
-INSPIRED BY
+### INSPIRED BY
 
 [kns](https://github.com/blendle/kns)
