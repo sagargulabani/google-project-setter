@@ -9,7 +9,7 @@ You can update the list of projects by using the -u flags.
 
 ## INSTALLATION
 
-install gcloud from [here](https://cloud.google.com/sdk/docs/quickstarts) if not installed
+install gcloud from [here](https://cloud.google.com/sdk/docs/quickstarts) if not installed  
 install fzf from here [fzf](https://github.com/junegunn/fzf)
 
 ```
