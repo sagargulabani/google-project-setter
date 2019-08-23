@@ -11,7 +11,12 @@ You can update the list of projects by using the -u flags.
 
 INSTALLATION:
 
-install fzf from here fzf (https://github.com/junegunn/fzf)
+install gcloud from [here](https://cloud.google.com/sdk/docs/quickstarts) if not installed
+install fzf from here [fzf](https://github.com/junegunn/fzf)
+
+```
+sudo curl https://raw.githubusercontent.com/sageecute/google-project-setter/master/bin/projectfinder.sh -o /usr/local/bin/gproj && sudo chmod +x $_
+```
 
 USAGE:
 
